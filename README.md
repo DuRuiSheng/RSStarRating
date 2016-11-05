@@ -8,4 +8,5 @@ RSStarRating文件夹下的类,提供只读和只写的星星View;可以显示�
 为了显示两种颜色,首先绘制一层底色,在绘制上层颜色,性能上没有测试,只达到了效果;
 
 
-如果有大牛愿意指点一二,以下是我邮箱地址:ruishengdu@139.com gitHub: https://github.com/DuRuiSheng/RSStarRating
+如果有大牛愿意指点一二,以下是我邮箱地址:ruishengdu@139.com 
+https://github.com/DuRuiSheng/RSStarRating
