@@ -38,6 +38,7 @@
 		A465EE921D6C637F00AC3DBD /* RSStarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RSStarView.m; sourceTree = "<group>"; };
 		A465EEAF1D6DC76700AC3DBD /* RSShowStarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RSShowStarView.h; sourceTree = "<group>"; };
 		A465EEB01D6DC76700AC3DBD /* RSShowStarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RSShowStarView.m; sourceTree = "<group>"; };
+		A4A7ECEF1DCDBF8C00048C25 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +66,7 @@
 		A465EE6D1D6C602100AC3DBD = {
 			isa = PBXGroup;
 			children = (
+				A4A7ECEF1DCDBF8C00048C25 /* README.md */,
 				A465EE781D6C602200AC3DBD /* RSStarRating */,
 				A465EE771D6C602200AC3DBD /* Products */,
 			);
